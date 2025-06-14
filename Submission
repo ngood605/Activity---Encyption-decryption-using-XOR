@@ -1,1 +1,11 @@
+What were your challenges in performing the lab?
 
+Some challenges I faced were trying to figure out what exactly an XOR bitwise operation was, as I had never heard of it before. I learned it was not that complicated, and it's somewhat simple in a way that it just creates a code based off a word and a key.  
+
+Encryption
+
+13 0E 1E 03 02 1B 17 16
+
+Decryption 
+
+13 0E 1E 03 02 1B 17 16 with key "computer" = password
